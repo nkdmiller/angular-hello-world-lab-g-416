@@ -1,6 +1,6 @@
 function MainController($scope) {
-  $scope.name = 'Kayla';
-  $scope.email = 'kooochoa@gmail.com';
+  $scope.name = 'Nate';
+  $scope.email = 'nate@example.com';
   $scope.phone = '32344322334';
 }
 
